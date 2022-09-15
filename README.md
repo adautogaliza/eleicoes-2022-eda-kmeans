@@ -1,2 +1,2 @@
 # eleicoes-2022-eda-kmeans
-Notebook and dataset
+Qual a distribuição de candidaturas no país quando consideramos escolaridade, raça, sexo, ocupação, Estado de origem e etc. dos candidatos a cargos políticos nas eleições 2022? Neste projeto, fazendo uma análise exploratória em Python, podemos traçar um perfil de todos os candidatos registrados no TSE para o pleito em questão. Além disto, utilizando um algoritmo de machine learning verificamos a similaridade entre os partidos com base nas características pessoais dos seus quadros político. Neste projeto, utilizo as bibliotecas Pandas e Seaborn para tratar, organizar e plotar visualizações dos dados em questão., e também a biblioteca scikit-learn para aplicação da clusterização
